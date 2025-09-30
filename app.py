@@ -5,7 +5,7 @@ from keras.models import load_model
 import streamlit as st
 import matplotlib.pyplot as plt
 
-model = model = load_model("Stock Predictions Model.keras")
+model = load_model("Stock Predictions Model.keras")
 
 st.header('Stock Market Predictor')
 
@@ -79,3 +79,4 @@ plt.ylabel('Price')
 plt.show()
 
 st.pyplot(fig4)
+
