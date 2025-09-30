@@ -5,6 +5,6 @@ This web app predicts stock prices using an LSTM model trained on historical dat
 
 You can try the Stock Market Predictor Web App live by clicking the link below:
 
-[Stock Market Predictor Web App](http://localhost:8501)
+[Stock Market Predictor Web App](https://stock-price-prediction-ac8qmf9tzfartuewuftbrd.streamlit.app/)
 
 
